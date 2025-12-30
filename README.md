@@ -95,11 +95,14 @@ I am motivated, consistent, and always open to learning new technologies and wor
 
 <div align="center">
 
-![Alfaiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=af2616487-hash&theme=radical&show_icons=true)
+![GitHub Contributions](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Commits](https://img.shields.io/badge/Commits-Tracked-4CAF50?style=for-the-badge&logo=git&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=af2616487-hash&layout=compact&theme=radical)
+[![Alfaiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=af2616487-hash&theme=radical&show_icons=true&hide_border=true)](https://github.com/af2616487-hash)
 
-</div>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=af2616487-hash&layout=compact&theme=radical&hide_border=true)](https://github.com/af2616487-hash)
+
+</div></div>
 
 ---
 
