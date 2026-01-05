@@ -109,4 +109,109 @@ I am motivated, consistent, and always open to learning new technologies and wor
 ### Let's Connect! 🚀
 *Feel free to reach out for collaborations or just a friendly hello*
 
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fire+Code&size=50&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&lines=💫+Skills+And+Experience" alt="Skills" />
+</div>
+
+<div align="center">
+  <h3>🎯 Core Skills</h3>
+  <table>
+    <tr>
+      <td align="center">
+        <strong>Programming Languages</strong><br/>
+        <code>C</code> • <code>Python</code> • <code>JavaScript</code><br/>
+        <code>HTML5</code> • <code>CSS3</code>
+      </td>
+      <td align="center">
+        <strong>Data Structures & Algorithms</strong><br/>
+        Arrays • Linked Lists • Trees<br/>
+        Graphs • Sorting • Searching
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <strong>Tools & Version Control</strong><br/>
+        Git • GitHub • VS Code<br/>
+        Linux • Command Line
+      </td>
+      <td align="center">
+        <strong>Design & Creativity</strong><br/>
+        UI/UX Design • Figma<br/>
+        Brand Identity • Visual Design
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fire+Code&size=50&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=🚀+What+I'm+Working+On" alt="Projects" />
+</div>
+
+<div align="center">
+  <p>
+    <strong>📚 Currently Mastering:</strong> Data Structures & Algorithms with C++<br/>
+    <strong>🎨 Building:</strong> Portfolio projects showcasing Python & Web Dev<br/>
+    <strong>🤝 Open For:</strong> Collaborations on beginner-friendly open-source projects<br/>
+    <strong>💼 Seeking:</strong> Internship opportunities in Software Development
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fire+Code&size=50&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=📊+GitHub+Analytics" alt="Analytics" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=af2616487-hash&show_icons=true&theme=radical&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=af2616487-hash&layout=compact&theme=radical" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fire+Code&size=50&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=🌟+Fun+Facts" alt="Fun Facts" />
+</div>
+
+<div align="center">
+  <p>
+    ⚡ When I'm not coding, I'm either designing or exploring new tech trends<br/>
+    🎮 Gaming enthusiast with passion for competitive gaming<br/>
+    📖 Lifelong learner always seeking to improve my craft<br/>
+    🌍 Open to remote collaboration from anywhere in the world
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fire+Code&size=35&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&width=900&lines=Let's+Build+Something+Amazing+Together!" alt="Call To Action" />
+</div>
+
+<div align="center">
+  <p>
+    <a href="mailto:your-email@example.com">
+      <img src="https://img.shields.io/badge/Email-FF1493?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://linkedin.com">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://twitter.com">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    </a>
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <p>
+    <strong>⭐ If you like my projects, don't forget to give them a star! It motivates me to create more amazing things.⭐</strong>
+  </p>
+</div>
+
 </div>
