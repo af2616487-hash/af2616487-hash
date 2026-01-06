@@ -216,3 +216,8 @@ I am motivated, consistent, and always open to learning new technologies and wor
 </div>
 
 </div>
+
+
+## 🔥 GitHub Streak Stats:
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=af2616487-hash&theme=radical)](https://git.io/streak-stats)
