@@ -1,208 +1,127 @@
 <div align="center">
-<hr style="width:65%; height:2px; background-color:gray; border:none;" />
 
 # 👋 Hi, I'm **Al Faiz**
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fire+Code&size=20&pause=3000&color=00D4FF&Center=true&width=900&repeat=false&lines=%F0%9F%92%BB+Code+Like+a+Pro;%F0%9F%9A%80+Build+Great+Projects;%F0%9F%93%9A+Master+DSA+and+Algorithms;%E2%9C%A8+Never+Stop+Learning)
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&color=00D4FF&center=true&width=900&lines=Code+with+Consistency;Build+Skills+Daily;Learning+Developer+%26+Designer" />
 
-### 💻 CSE Student | 🎨 Creative Designer | 🚀 Learning Developer
+### 💻 CSE Student | 🚀 Aspiring Software Developer | 🎨 Creative Designer
 
-<hr style="width:65%; height:2px; background-color:gray; border:none;" />
-
+---
 </div>
 
-## 💫 About Me:
+## 👨‍💻 About Me
 
-I am a Computer Science Engineering (CSE) student and currently in my learning phase. I am not working in any company right now, but I actively work on creative projects. I design box and packaging designs for my own small company, which helps me combine creativity with practical experience.
+I am a **Computer Science Engineering (CSE) student** who is currently focused on learning and building strong fundamentals in programming and problem-solving. I am not working in a company right now, but I actively build projects and improve my skills consistently.
 
-In programming, I have learned the C language (basic to intermediate level). Currently, I am learning Python and also working on C++ with Data Structures and Algorithms (DSA) to strengthen my problem-solving skills.
+Alongside programming, I run a **small creative venture** where I design **box and packaging designs**, which helps me combine creativity with real-world problem solving.
 
-I am looking for collaboration opportunities on beginner-friendly projects, open-source contributions, and college-level projects where I can learn, contribute, and grow as a developer.
+### 🔹 What I’m Learning
+- **C Language** (Basic to Intermediate)
+- **Python** (Foundations & practice)
+- **C++ with Data Structures & Algorithms (DSA)**
 
-You can ask me about C language basics, Python fundamentals, beginner-level DSA concepts, and packaging or box design ideas.
+### 🔹 What I’m Looking For
+- Beginner-friendly **open-source contributions**
+- **College-level and learning projects**
+- Collaboration with like-minded developers
 
-I am motivated, consistent, and always open to learning new technologies and working with like-minded people.
+I believe in **consistency, clarity of fundamentals, and continuous improvement**.
+
+I also enjoy **collecting GitHub achievements and badges**, as they motivate me to stay active, contribute genuinely, and improve my profile step by step. I am always open to **tips, guidance, and community support** to earn achievements through real learning and meaningful contributions.
 
 ---
 
-## 🌐 Connect With Me:
+## 💖 GitHub Achievements & Support
+
+I enjoy setting small goals on GitHub, such as maintaining consistency, contributing to open-source projects, and earning achievements that reflect genuine effort and learning.
+
+If you have any **tips, suggestions, or guidance** on improving contributions or earning achievements the right way, I truly appreciate your support. Even a ⭐ star or feedback on my repositories helps me stay motivated.
+
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AlFaiz)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/af2616487-hash)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AlFaiz02)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AlFaiz)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/af2616487-hash)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:af2616487@gmail.com)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/AlFaiz02)
-[![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/af2616487)
-[![CodeChef](https://img.shields.io/badge/CodeChef-%235B4F3D.svg?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/alfaiz02)
-[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/alfaiz02)
-
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@AlFaiz)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://alfaiz-portfolio.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Faizyy_says)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/AfEAUS9J)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/AlFaiz02)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/af2616487)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4F3D?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/alfaiz02)
 
 </div>
 
 ---
 
-## 💻 Tech Stack:
+## 🛠️ Tech Stack
 
-<div align="center">
-
-### Languages
-![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+### 💡 Programming Languages
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-### Cloud & Deployment
-![Azure](https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+### 📚 Data Structures & Algorithms
+- Arrays  
+- Linked Lists  
+- Stacks & Queues  
+- Trees & Basics of Graphs  
+- Sorting & Searching Algorithms  
 
-### Big Data & ML
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+### ⚙️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+### 🎨 Design Skills
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![CorelDRAW](https://img.shields.io/badge/CorelDRAW-009B3A?style=for-the-badge&logo=coreldraw&logoColor=white)
 
-### Design Tools
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-%23FF61F6.svg?style=for-the-badge&logo=adobexd&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+---
 
-### Tools & Frameworks
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-%230078D4.svg?style=for-the-badge&logo=windows&logoColor=white)
+## 🚀 What I’m Currently Working On
+
+- 📘 Strengthening **DSA with C++**
+- 🐍 Building **Python practice projects**
+- 🌐 Creating **beginner-friendly GitHub repositories**
+- 🎨 Improving **UI & packaging design skills**
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=af2616487-hash&theme=radical)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats:
+## 🎯 Goals
 
-<div align="center">
+- Build strong **fundamentals in computer science**
+- Become confident in **problem solving**
+- Contribute to **open-source projects**
+- Secure a **software development internship**
 
-![GitHub Contributions](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Commits](https://img.shields.io/badge/Commits-Tracked-4CAF50?style=for-the-badge&logo=git&logoColor=white)
+---
 
-</div></div>
+## ✨ Fun Facts
+
+- ⚡ I enjoy mixing **creativity with technology**
+- 🎮 Casual gaming helps me relax
+- 📖 I focus on learning concepts deeply, not just memorizing
 
 ---
 
 <div align="center">
 
-### Let's Connect! 🚀
-*Feel free to reach out for collaborations or just a friendly hello*
+### ⭐ If you like my work, consider giving a star to my repositories!
 
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fire+Code&size=50&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&lines=💫+Skills+And+Experience" alt="Skills" />
-</div>
-
-<div align="center">
-  <h3>🎯 Core Skills</h3>
-  <table>
-    <tr>
-      <td align="center">
-        <strong>Programming Languages</strong><br/>
-        <code>C</code> • <code>Python</code> • <code>JavaScript</code><br/>
-        <code>HTML5</code> • <code>CSS3</code>
-      </td>
-      <td align="center">
-        <strong>Data Structures & Algorithms</strong><br/>
-        Arrays • Linked Lists • Trees<br/>
-        Graphs • Sorting • Searching
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <strong>Tools & Version Control</strong><br/>
-        Git • GitHub • VS Code<br/>
-        Linux • Command Line
-      </td>
-      <td align="center">
-        <strong>Design & Creativity</strong><br/>
-        UI/UX Design • Figma<br/>
-        Brand Identity • Visual Design
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fire+Code&size=50&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=🚀+What+I'm+Working+On" alt="Projects" />
-</div>
-
-<div align="center">
-  <p>
-    <strong>📚 Currently Mastering:</strong> Data Structures & Algorithms with C++<br/>
-    <strong>🎨 Building:</strong> Portfolio projects showcasing Python & Web Dev<br/>
-    <strong>🤝 Open For:</strong> Collaborations on beginner-friendly open-source projects<br/>
-    <strong>💼 Seeking:</strong> Internship opportunities in Software Development
-  </p>
-</div>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fire+Code&size=50&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=🌟+Fun+Facts" alt="Fun Facts" />
-</div>
-
-<div align="center">
-  <p>
-    ⚡ When I'm not coding, I'm either designing or exploring new tech trends<br/>
-    🎮 Gaming enthusiast with passion for competitive gaming<br/>
-    📖 Lifelong learner always seeking to improve my craft<br/>
-    🌍 Open to remote collaboration from anywhere in the world
-  </p>
-</div>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fire+Code&size=35&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&width=900&lines=Let's+Build+Something+Amazing+Together!" alt="Call To Action" />
-</div>
-
-<div align="center">
-  <p>
-    <a href="mailto:your-email@example.com">
-      <img src="https://img.shields.io/badge/Email-FF1493?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://linkedin.com">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://twitter.com">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-    </a>
-  </p>
-</div>
-
----
-
-<div align="center">
-  <p>
-    <strong>⭐ If you like my projects, don't forget to give them a star! It motivates me to create more amazing things.⭐</strong>
-  </p>
-</div>
+**Let’s learn, build, and grow together 🚀**
 
 </div>
-
-
-## 🔥 GitHub Streak Stats:
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=af2616487-hash&theme=radical)](https://git.io/streak-stats)
