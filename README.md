@@ -2,63 +2,52 @@
 
 # 👋 Hi, I'm **Al Faiz**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&color=00D4FF&center=true&width=900&lines=Code+with+Consistency;Build+Skills+Daily;Learning+Developer+%26+Designer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&color=00D4FF&center=true&width=850&lines=Consistency+Over+Everything;Learning+Software+Development;Code+%7C+Design+%7C+Grow" />
 
 ### 💻 CSE Student | 🚀 Aspiring Software Developer | 🎨 Creative Designer
 
----
 </div>
+
+---
 
 ## 👨‍💻 About Me
 
-I am a **Computer Science Engineering (CSE) student** who is currently focused on learning and building strong fundamentals in programming and problem-solving. I am not working in a company right now, but I actively build projects and improve my skills consistently.
+I’m a **Computer Science Engineering student** focused on building **strong programming fundamentals** and improving problem-solving skills through consistent practice and projects.
 
-Alongside programming, I run a **small creative venture** where I design **box and packaging designs**, which helps me combine creativity with real-world problem solving.
+Alongside coding, I run a **small creative venture** designing **box & packaging designs**, allowing me to blend **technology with creativity**.
 
-### 🔹 What I’m Learning
-- **C Language** (Basic to Intermediate)
-- **Python** (Foundations & practice)
-- **C++ with Data Structures & Algorithms (DSA)**
+- 🌱 Learning step by step, not rushing  
+- 🔁 Believe in **consistency over shortcuts**  
+- 🧠 Focused on **real understanding, not rote learning**
 
-### 🔹 What I’m Looking For
+---
+
+## 📚 Currently Learning
+
+- **C Language** (Core fundamentals)
+- **Python** (Practice & small projects)
+- **C++ with DSA** (Problem solving)
+
+---
+
+## 🤝 Looking For
+
 - Beginner-friendly **open-source contributions**
-- **College-level and learning projects**
-- Collaboration with like-minded developers
-
-I believe in **consistency, clarity of fundamentals, and continuous improvement**.
-
-I also enjoy **collecting GitHub achievements and badges**, as they motivate me to stay active, contribute genuinely, and improve my profile step by step. I am always open to **tips, guidance, and community support** to earn achievements through real learning and meaningful contributions.
+- **College & learning-based projects**
+- Collaboration with motivated learners
 
 ---
 
-## 💖 GitHub Achievements & Support
 
-I enjoy setting small goals on GitHub, such as maintaining consistency, contributing to open-source projects, and earning achievements that reflect genuine effort and learning.
 
-If you have any **tips, suggestions, or guidance** on improving contributions or earning achievements the right way, I truly appreciate your support. Even a ⭐ star or feedback on my repositories helps me stay motivated.
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AlFaiz)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/af2616487-hash)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:af2616487@gmail.com)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/AlFaiz02)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/af2616487)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4F3D?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/alfaiz02)
-
-</div>
-
----
 
 ## 🛠️ Tech Stack
 
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGYxNDM0b28zOHFqZHVmanBmYzI0dW5rMHZwZWdib2QyZHBjYm9ibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="350" />
+
+
 ### 💡 Programming Languages
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
@@ -66,61 +55,58 @@ If you have any **tips, suggestions, or guidance** on improving contributions or
 - Arrays  
 - Linked Lists  
 - Stacks & Queues  
-- Trees & Basics of Graphs  
-- Sorting & Searching Algorithms  
+- Trees & Graphs  
+- Sorting & Searching  
 
-### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### ⚙️ Tools & Design
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 
-### 🎨 Design Skills
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![CorelDRAW](https://img.shields.io/badge/CorelDRAW-009B3A?style=for-the-badge&logo=coreldraw&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
+
+
+
 
 ---
 
-## 🚀 What I’m Currently Working On
+## 🚀 Current Focus
 
 - 📘 Strengthening **DSA with C++**
-- 🐍 Building **Python practice projects**
-- 🌐 Creating **beginner-friendly GitHub repositories**
+- 🐍 Building **Python practice repositories**
+- 🌐 Maintaining **clean & beginner-friendly GitHub repos**
 - 🎨 Improving **UI & packaging design skills**
 
 ---
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AlFaizCodes&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AlFaizCodes&theme=highcontrast&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlFaizCodes&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 📊 GitHub Stats
 
----
-
-## 🎯 Goals
-
-- Build strong **fundamentals in computer science**
-- Become confident in **problem solving**
-- Contribute to **open-source projects**
-- Secure a **software development internship**
+![](https://github-readme-stats.vercel.app/api?username=AlFaizCodes&theme=highcontrast&hide_border=true)
+![](https://nirzak-streak-stats.vercel.app/?user=AlFaizCodes&theme=highcontrast&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlFaizCodes&layout=compact&theme=highcontrast&hide_border=true)
 
 ---
 
-## ✨ Fun Facts
+## 🌐 Connect With Me
 
-- ⚡ I enjoy mixing **creativity with technology**
-- 🎮 Casual gaming helps me relax
-- 📖 I focus on learning concepts deeply, not just memorizing
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/AlFaiz)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/af2616487-hash)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:af2616487@gmail.com)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/AlFaiz02)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/af2616487)
+
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ If you like my work, consider giving a star to my repositories!
-
-**Let’s learn, build, and grow together 🚀**
+### ⭐ If you like my work, consider starring my repositories  
+**Let’s learn, build & grow together 🚀**
 
 </div>
