@@ -28,6 +28,12 @@ Alongside coding, I run a **small creative venture** designing **box & packaging
 - **Python** (Practice & small projects)
 - **C++ with DSA** (Problem solving)
 
+
+### 📌 What I’m Learning Today
+- Git & GitHub basics
+- Clean commit messages
+- Daily consistency
+
 ---
 
 ## 🤝 Looking For
